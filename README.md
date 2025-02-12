@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/GenericPirate/GenericPirate/output/snake.svg" alt="Snake animation" />
+
+###
+
+![](https://hit.yhype.me/github/profile?account_id=16764908)
